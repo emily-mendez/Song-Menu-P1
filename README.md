@@ -1,1 +1,3 @@
+This project allows the user to create songs and playlists. It incorporates a command interface that navigates the user on how to format the commands. It uses growable arrays to store song collections and playlists, and vectors for playlist collections.
+
 When using the commands, make sure to follow the exact format as shown in the interface. If there are too few arguments or a string where an integer should be, then the program will notify you of your mistake. For string inputs, such as song title, artist, or playlist name, you can either use no quotations around the input if there is no white space, or quotations if there are. This means that for one word inputs you should not use quotes, but for multiple words such as "Taylor Swift", include quotes around the input.
